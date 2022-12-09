@@ -1,5 +1,5 @@
 import './newBannerTop.css';
-import '../slider.js';
+//import '../slider.js';
 import bannerimg from './assets/bannerimg.png';
 import apple from './assets/appleicon.png';
 import playstore from './assets/googleplay.png';
@@ -10,8 +10,8 @@ import slider4 from './assets/slider4.png';
 import slider5 from './assets/slider5.png';
 import slider6 from './assets/slider6.png';
 import slider7 from './assets/slider7.png';
-import jQuery from 'jquery';
-window.jQuery = jQuery;
+//import jQuery from 'jquery';
+//window.jQuery = jQuery;
 
 function NewBannerHome() { 
     return (
