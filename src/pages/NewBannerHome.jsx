@@ -13,7 +13,7 @@ import slider7 from './assets/slider7.png';
 import jQuery from 'jquery';
 window.jQuery = jQuery;
 
-function NewBannerHome() {
+function NewBannerHome() { 
     return (
         <div class="banner-wrapper">
             <div class="container">
